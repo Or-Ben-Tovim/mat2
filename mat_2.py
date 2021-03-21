@@ -19,6 +19,6 @@ def countword()->int:
                 counter=counter+1
     return counter 
 
-print(countword()+1)
+
            
 
