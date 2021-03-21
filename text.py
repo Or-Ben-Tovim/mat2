@@ -17,7 +17,7 @@ def countword()->int:
             reWord=revword(j)
             if(reWord==word):
                 counter=counter+1
-    return counter 
+    return counter+1
 
 
            
